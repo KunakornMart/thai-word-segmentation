@@ -253,8 +253,8 @@ Rules:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/KunakornMart/superai-s6-thai-word-segmentation.git
-cd superai-s6-thai-word-segmentation
+git clone https://github.com/KunakornMart/thai-word-segmentation.git
+cd thai-word-segmentation
 ```
 
 ### 2. Install Dependencies
